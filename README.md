@@ -1,1 +1,1 @@
-# Literature-review-of-paper-ECG-image-with-AI
+# A Review of Artificial Intelligence Methods For Paper ECG Image
